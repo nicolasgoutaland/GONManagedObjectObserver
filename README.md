@@ -1,5 +1,5 @@
 #GONManagedObjectObserver
-Easily build NSAttributedString from XML/HTML like strings.
+An easy way to listen to NSManagedObject update / deletion.
 
 When using CoreData, it is often difficult to handle objects deletion / updates.
 NSFetchedResultsController are greate for list, but to observe only one object, they are overkill.
